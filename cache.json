@@ -7,588 +7,109 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "ニュース – 電撃ホビーウェブ",
+      "feedUrl": "https://hobby.dengeki.com/news/feed/",
+      "siteUrl": "https://hobby.dengeki.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=366068",
-          "author": "Geoff Graham",
-          "description": "I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …\nJust How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/just-how-long-should-alt-text-be/",
-          "publishedOn": "2022-05-27T14:25:39.000Z",
-          "wordCount": 839,
-          "title": "Just How Long Should Alt Text Be?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
+          "id": "https://hobby.dengeki.com/?p=1555327",
+          "author": "shinjisumimoto",
+          "description": "Netflix人気ドラマ『ストレンジャー・シングス』のアソートコレクションがバンダイのガシャポンに登場！ラバマスと缶バッジがラインナップ！ #ストレンジャー・シングス #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1555327/",
+          "publishedOn": "2022-05-28T09:00:57.000Z",
+          "wordCount": 1482,
+          "title": "Netflix人気ドラマ『ストレンジャー・シングス』のアソートコレクションがガシャポンに登場！ラバーマスコットと缶バッジを集めよう!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/26_tc_AD7xksK8bdKVpacKD0VlKMLQ2iW-3-kd.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=366107",
-          "author": "Geoff Graham",
-          "description": "It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …\nBeautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/beautify-github-profile/",
-          "publishedOn": "2022-05-26T18:13:28.000Z",
-          "wordCount": 349,
-          "title": "Beautify GitHub Profile",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
+          "id": "https://hobby.dengeki.com/?p=1515709",
+          "author": "shinjisumimoto",
+          "description": "いろんなところに座らせて飾れるセガプライズの“ちょこのせ”フィギュアシリーズに『名探偵コナン』の「松田陣平」が登場！2022年5月リリースです！ #名探偵コナン #コナン #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1515709/",
+          "publishedOn": "2022-05-28T08:30:21.000Z",
+          "wordCount": 1287,
+          "title": "『名探偵コナン』「松田陣平」がセガのちょこのせシリーズでプライズフィギュア化！「萩原研二」とそろえたい!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/04/59_tc_zc2wBe8o7kAqlFWQMSNjwBJEvHju5LSF.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=365946",
-          "author": "Temani Afif",
-          "description": "We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …\nCool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-hover-effects-background-masks-3d/",
-          "publishedOn": "2022-05-26T14:13:01.000Z",
-          "wordCount": 2787,
-          "title": "Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365946"
+          "id": "https://hobby.dengeki.com/?p=1515682",
+          "author": "shinjisumimoto",
+          "description": "最新映画『名探偵コナン ハロウィンの花嫁』のアクリルキーチェーンがセガのプライズに登場！2022年5月のリリースです！ #名探偵コナン #コナン #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1515682/",
+          "publishedOn": "2022-05-28T05:00:36.000Z",
+          "wordCount": 1245,
+          "title": "劇場版『名探偵コナン ハロウィンの花嫁』のアクリルキーチェーンがセガプライズに登場！映画の興奮が蘇る5種のデザイン!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/04/56_tc_CARPZDBT9SyoNciokXzPZFAjq-q8aqoA.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=366077",
-          "author": "Geoff Graham",
-          "description": "Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …\nCustomizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/customizing-color-fonts-on-the-web/",
-          "publishedOn": "2022-05-26T00:15:29.000Z",
-          "wordCount": 321,
-          "title": "Customizing Color Fonts on the Web",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366077"
+          "id": "https://hobby.dengeki.com/?p=1515583",
+          "author": "shinjisumimoto",
+          "description": "セガより2022年5月にリリースされるTVアニメ『呪術廻戦』の新作プライズアイテム2点をご紹介します！ #呪術廻戦 #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1515583/",
+          "publishedOn": "2022-05-28T04:00:00.000Z",
+          "wordCount": 1364,
+          "title": "TVアニメ『呪術廻戦』のクッションとティッシュボックスカバーでお部屋を楽しくコーディネート︕",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/04/49_tc_cbOJ2G-25rU0nm5_k_ZfysxRugaCM2jK.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=365888",
-          "author": "Nicholas C. Zakas",
-          "description": "Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …\nA Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-perfect-table-of-contents-with-html-css/",
-          "publishedOn": "2022-05-25T14:08:33.000Z",
-          "wordCount": 3362,
-          "title": "A Perfect Table of Contents With HTML + CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365888"
+          "id": "https://hobby.dengeki.com/?p=1555173",
+          "author": "shinjisumimoto",
+          "description": "水に浮かべて遊べるガシャポンの「プカプカ浮き輪コレクション」シリーズに『クレヨンしんちゃん』が登場！浮き輪とマスコットは取り外して遊べます！ #クレヨンしんちゃん #クレしん #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1555173/",
+          "publishedOn": "2022-05-28T03:30:07.000Z",
+          "wordCount": 1359,
+          "title": "『クレヨンしんちゃん』の浮き輪付きマスコットフィギュアがガシャポンに登場！しんちゃんたちをプカプカ水に浮かべて遊ぼう♪",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/13_tc_nTOYOORjgsZxtjCZKrlR0HPk_-lii_kY.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=365828",
-          "author": "Mariana Beldi",
-          "description": "So, SVG has this stroke-miterlimit presentation attribute. You’ve probably seen it when exporting an SVG from a graphic editor program, or perhaps you find out you could remove it without noticing any change to the visual appearance.\nAfter a good …\nMastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/mastering-svgs-stroke-miterlimit-attribute/",
-          "publishedOn": "2022-05-24T14:04:17.000Z",
-          "wordCount": 1666,
-          "title": "Mastering SVG’s stroke-miterlimit Attribute",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365828"
+          "id": "https://hobby.dengeki.com/?p=1515554",
+          "author": "shinjisumimoto",
+          "description": "TVアニメ『SPY×FAMILY』のプライズアイテムを展開中のセガより、2022年5月・6月にリリースされる新作5点を一気にご紹介します！ #SPY_FAMILY #スパイファミリー #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1515554/",
+          "publishedOn": "2022-05-28T03:00:19.000Z",
+          "wordCount": 1405,
+          "title": "セガプライズではTVアニメ『SPY×FAMILY』のアイテムを精力展開中！5アイテムが一挙リリース!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/46_tc2_7FenacBhdspzUWUHj25dezXwu1UfNBps.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=365992",
-          "author": "Geoff Graham",
-          "description": "Ahmad Shadeed — doing what he always does so well — provides an early look at the object-view-box property, something he describes as a native way to crop an image in the browser with CSS.\nThe use case? Well, …\nFirst Look At The CSS object-view-box Property originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/first-look-at-the-css-object-view-box-property/",
-          "publishedOn": "2022-05-23T19:15:53.000Z",
-          "wordCount": 363,
-          "title": "First Look At The CSS object-view-box Property",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365992"
+          "id": "https://hobby.dengeki.com/?p=1515732",
+          "author": "shinjisumimoto",
+          "description": "アートクッションやキーチェーン、腕時計など、セガより2022年5月にリリースされるアニメ『名探偵コナン』の新作プライズアイテム3点をチェック！ #名探偵コナン #コナン #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1515732/",
+          "publishedOn": "2022-05-28T01:30:10.000Z",
+          "wordCount": 1404,
+          "title": "『名探偵コナン』セガプライズの初夏の新作アイテム！アートクッションやキーチェーン、腕時計などを紹介!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/04/60_tc_ysiPvLXTG-d9B_PZ4InUeTVcIxaoy1P6.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=365804",
-          "author": "Rob Levin",
-          "description": "As the author of a library called AgnosticUI, I’m always on the lookout for new components. And recently, I decided to dig in and start work on a new dialog (aka modal) component. That’s something many devs like to …\nDialog Components: Go Native HTML or Roll Your Own? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/dialog-components-roll-your-own/",
-          "publishedOn": "2022-05-23T14:31:18.000Z",
-          "wordCount": 3341,
-          "title": "Dialog Components: Go Native HTML or Roll Your Own?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365804"
+          "id": "https://hobby.dengeki.com/?p=1555019",
+          "author": "齋藤泰成",
+          "description": "テレビアニメ『鬼滅の刃』より、「ほーるどフィギュアミニ其の壱」が登場！ビジネスシーンでも活用できる、カードスタンドの炭治郎＆判子スタンドの禰豆子の2種類が展開！ #鬼滅の刃",
+          "link": "https://hobby.dengeki.com/news/1555019/",
+          "publishedOn": "2022-05-28T00:30:26.000Z",
+          "wordCount": 1265,
+          "title": "テレビアニメ『鬼滅の刃』より、名刺や判子を置いておける「ほーるどフィギュアミニ其の壱」が登場！これでお仕事に全集中！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/1200_4SI9_l_stuaxnk4pB97DK1Ki4YYTkHVM.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=365971",
-          "author": "Geoff Graham",
-          "description": "Zeldman:\nYou may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.\nThat would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …\nVerevolf originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/verevolf/",
-          "publishedOn": "2022-05-20T20:24:43.000Z",
-          "wordCount": 390,
-          "title": "Verevolf",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365971"
+          "id": "https://hobby.dengeki.com/?p=1555113",
+          "author": "shinjisumimoto",
+          "description": "ガシャポンフィギュア「Gasha Portraits エヴァンゲリオン」の彩色＆ボリュームが格段に進化したプレミアムバージョンに「綾波レイ」が登場！ #エヴァンゲリオン #エヴァ #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1555113/",
+          "publishedOn": "2022-05-27T23:30:38.000Z",
+          "wordCount": 1299,
+          "title": "ガシャポンフィギュア「Gasha Portraits エヴァンゲリヲン」が豪華プレミアム仕様に超絶進化！精密彩色の「綾波レイ」が全2種で登場!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/08_tc_D_oWriw2PoH9rHdi_158xZ4Iqs824XjW.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=365784",
-          "author": "Adam Rackis",
-          "description": "Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …\nInline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/",
-          "publishedOn": "2022-05-19T14:30:08.000Z",
-          "wordCount": 2102,
-          "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365766",
-          "author": "Jhey Tompkins",
-          "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-interactive-starry-backdrop-for-content/",
-          "publishedOn": "2022-05-18T14:16:43.000Z",
-          "wordCount": 2895,
-          "title": "An Interactive Starry Backdrop for Content",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365766"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365531",
-          "author": "Marcel Moreau",
-          "description": "Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …\nImproving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/improving-icons-for-ui-elements-with-typographic-alignment-and-scale/",
-          "publishedOn": "2022-05-17T14:30:18.000Z",
-          "wordCount": 1143,
-          "title": "Improving Icons for UI Elements with Typographic Alignment and Scale",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365531"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365377",
-          "author": "Ganesh Dahal",
-          "description": "Global styles, a feature of the block themes, is one of my favorite parts of creating block themes. The concept of global style variations in WordPress were introduced in Gutenberg 12.5 which would allow theme authors to create alternate …\nHow to Create Style Variations in WordPress 6.0 Block Themes originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/",
-          "publishedOn": "2022-05-16T14:38:29.000Z",
-          "wordCount": 3212,
-          "title": "How to Create Style Variations in WordPress 6.0 Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365377"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365738",
-          "author": "Temani Afif",
-          "description": "In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …\nCool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/",
-          "publishedOn": "2022-05-13T14:43:17.000Z",
-          "wordCount": 2249,
-          "title": "Cool Hover Effects That Use CSS Text Shadow",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365738"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365706",
-          "author": "Jhey Tompkins",
-          "description": "Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …\nA CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-css-slinky-in-3d/",
-          "publishedOn": "2022-05-12T14:27:50.000Z",
-          "wordCount": 3746,
-          "title": "A CSS Slinky in 3D? Challenge Accepted!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365706"
-        }
-      ]
-    },
-    {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
-          "author": "hello@smashingmagazine.com (Vijay Verma)",
-          "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
-          "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
-          "publishedOn": "2022-05-27T09:00:00.000Z",
-          "wordCount": 3063,
-          "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
-          "author": "hello@smashingmagazine.com (Daniel Yuschik)",
-          "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
-          "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
-          "publishedOn": "2022-05-26T09:30:00.000Z",
-          "wordCount": 2875,
-          "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e098dbe-b9e0-4b6e-8798-c3a695242367/accessible-design-system-themes-css-color-contrast.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e098dbe-b9e0-4b6e-8798-c3a695242367/accessible-design-system-themes-css-color-contrast.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
-          "author": "hello@smashingmagazine.com (Frank Joseph)",
-          "description": "In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!",
-          "link": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
-          "publishedOn": "2022-05-25T09:30:00.000Z",
-          "wordCount": 2110,
-          "title": "Understanding Weak Reference In JavaScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/44544ece-23b3-48cb-b2bf-0183a32d2bee/understanding-weak-reference-javascript.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
-          "author": "hello@smashingmagazine.com (Kata Nagygyörgy & Diana Lakatos)",
-          "description": "This article is a case study of how the platformOS team has researched, developed, and iteratively adjusted their onboarding processes over more than three years to eventually create the multiple award winning developer experience they provide today.",
-          "link": "https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/",
-          "publishedOn": "2022-05-24T11:30:00.000Z",
-          "wordCount": 6334,
-          "title": "Developing An Award-Winning Onboarding Process (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.",
-          "link": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
-          "publishedOn": "2022-05-23T09:30:00.000Z",
-          "wordCount": 3783,
-          "title": "Lesser-Known And Underused CSS Features In 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-          "author": "hello@smashingmagazine.com (Greg Dickens)",
-          "description": "In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.",
-          "link": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-          "publishedOn": "2022-05-20T08:30:00.000Z",
-          "wordCount": 4362,
-          "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
-          "author": "hello@smashingmagazine.com (Benjamin Ajibade)",
-          "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
-          "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
-          "publishedOn": "2022-05-19T11:30:00.000Z",
-          "wordCount": 3084,
-          "title": "Kubernetes For Frontend Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we ask how one man can go from designing websites for local bands to heading up Google Fonts Knowledge. Smashing’s Vitaly Friedman talks to Elliot Jay Stocks to find out.",
-          "link": "https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/",
-          "publishedOn": "2022-05-17T11:00:00.000Z",
-          "wordCount": 7077,
-          "title": "Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54ed7013-6796-4ff5-b13f-7133e3395de7/smashing-podcast-episode-46.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/",
-          "author": "hello@smashingmagazine.com (Nick Babich)",
-          "description": "Let’s take a closer look at how you can create your very own WordPress site up and running created and hosted with the Elementor Cloud Website.",
-          "link": "https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/",
-          "publishedOn": "2022-05-17T10:30:00.000Z",
-          "wordCount": 2111,
-          "title": "The Modern Way To Create And Host A WordPress Site",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74301596-05b5-4dff-98ad-dd8c62c97c69/elementor-modern-way-create-host-wordpress-site.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/74301596-05b5-4dff-98ad-dd8c62c97c69/elementor-modern-way-create-host-wordpress-site.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
-          "author": "hello@smashingmagazine.com (Sean Roberts)",
-          "description": "What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.",
-          "link": "https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/",
-          "publishedOn": "2022-05-16T10:00:00.000Z",
-          "wordCount": 5125,
-          "title": "Rethinking Server-Timing As A Critical Monitoring Tool",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f69c3e0-764f-4cfb-b8f8-7a4420d0e2f6/rethinking-server-timing-monitoring-tool.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
-          "author": "hello@smashingmagazine.com (Gerry McGovern)",
-          "description": "We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.",
-          "link": "https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/",
-          "publishedOn": "2022-05-13T11:30:00.000Z",
-          "wordCount": 3227,
-          "title": "Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92d1278-297a-41d9-8ba2-e5100063610e/top-tasks-focus-what-matters-must-defocus-what-doesnt.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
-          "author": "hello@smashingmagazine.com (Dan Shappir)",
-          "description": "In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.",
-          "link": "https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/",
-          "publishedOn": "2022-05-12T09:30:00.000Z",
-          "wordCount": 4386,
-          "title": "How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
-          "author": "hello@smashingmagazine.com (Denis Studennikov)",
-          "description": "In this article, we will be taking a closer look at a design case study and discuss possible reasons why its customers abandon their online shopping carts and what solutions are recommended in each particular case.",
-          "link": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
-          "publishedOn": "2022-05-11T10:00:00.000Z",
-          "wordCount": 2104,
-          "title": "How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.",
-          "link": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
-          "publishedOn": "2022-05-10T10:00:00.000Z",
-          "wordCount": 2402,
-          "title": "Magical SVG Techniques",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
-          "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
-          "publishedOn": "2022-05-09T10:30:00.000Z",
-          "wordCount": 3688,
-          "title": "Performance Game Changer: Browser Back/Forward Cache",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
-          "author": "hello@smashingmagazine.com (Joshua Mauldin)",
-          "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
-          "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
-          "publishedOn": "2022-05-06T09:30:00.000Z",
-          "wordCount": 2989,
-          "title": "How To Give Effective Feedback Remotely",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
-          "author": "hello@smashingmagazine.com (Stefan Baumgartner)",
-          "description": "When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](https://www.storyblok.com/) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.",
-          "link": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
-          "publishedOn": "2022-05-05T09:30:00.000Z",
-          "wordCount": 3109,
-          "title": "Resilience, Flexibility And Immediacy: Working With Headless Systems",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
-          "link": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
-          "publishedOn": "2022-05-04T10:00:00.000Z",
-          "wordCount": 6040,
-          "title": "Designing A Better Language Selector",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
-          "author": "hello@smashingmagazine.com (Josh Comeau)",
-          "description": "Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.",
-          "link": "https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
-          "publishedOn": "2022-05-03T11:00:00.000Z",
-          "wordCount": 2903,
-          "title": "You Don’t Need A UI Framework",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7fae9333-8fe0-468f-bc90-274417de15c3/you-dont-need-ui-framework.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7fae9333-8fe0-468f-bc90-274417de15c3/you-dont-need-ui-framework.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
-          "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
-          "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2300,
-          "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
-          "author": "hello@smashingmagazine.com (Steve Sewell)",
-          "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
-          "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
-          "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2028,
-          "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg"
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": [
-        {
-          "id": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you're working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we'll focus mainly on the various methods",
-          "link": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
-          "publishedOn": "2022-05-27T20:08:33.000Z",
-          "wordCount": 1435,
-          "title": "C++ Vector – How to Initialize a Vector in a Constructor in C++",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/uday-awal-UjJWhMerJx0-unsplash--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-for-loops/",
-          "author": "Joel Olawanle",
-          "description": "Loops are a programming concept that we constantly encounter and implement as JavaScript developers.  And many developers are familiar with loops, but not everyone understands how they work and why or when they should use a specific type of loop. In this article, we will learn what for loops",
-          "link": "https://www.freecodecamp.org/news/javascript-for-loops/",
-          "publishedOn": "2022-05-27T16:32:36.000Z",
-          "wordCount": 1666,
-          "title": "JavaScript For Loop – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/for-loops.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/",
-          "author": "Beau Carnes",
-          "description": "A chrome extension is a software program that is designed to run within the Google Chrome web browser. Extensions can add a variety of functionality to the browser, including providing tools for web development, adding features to the browser interface, and changing the behavior of web pages. We just published",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/",
-          "publishedOn": "2022-05-27T14:35:37.000Z",
-          "wordCount": 9832,
-          "title": "How to Build a Chrome Extension",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ext.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/",
-          "author": "Beau Carnes",
-          "description": "There are thousands of open jobs related to blockchain development companies like IBM, VMware, and Deloitte. We just published a 30-hour course on the freeCodeCamp.org YouTube channel that will help you learn skills related to blockchain, Solidity, and Web3 development. If you are interested in learning about blockchain development, this",
-          "link": "https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/",
-          "publishedOn": "2022-05-26T19:00:01.000Z",
-          "wordCount": 510,
-          "title": "Learn Blockchain, Solidity, and Full Stack JavaScript Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/blockchain1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/",
-          "author": "Dillion Megida",
-          "description": "In JavaScript, you use RegEx to match patterns in characters. Combining this with the .split() string method gives you more splitting powers. The string constructor has many useful methods [https://dillionmegida.com/p/10-useful-string-methods-in-javascript/], one of which is the split() method. You use this method to split a string into an array of substrings",
-          "link": "https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/",
-          "publishedOn": "2022-05-26T18:31:08.000Z",
-          "wordCount": 663,
-          "title": "JavaScript String.Split() Example with RegEx",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/string-split-with-regex.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pyscript-python-front-end-framework/",
-          "author": "Ifihanagbara Olusheye",
-          "description": "Python has grown in popularity immensely in recent years. It has a wide range of applications, from its most popular use in Artificial Intelligence, to Data Science, Robotics, and Scripting.  In the web development field, Python is used mainly on the backend with frameworks such as Django and Flask.",
-          "link": "https://www.freecodecamp.org/news/pyscript-python-front-end-framework/",
-          "publishedOn": "2022-05-26T15:37:08.000Z",
-          "wordCount": 1716,
-          "title": "How to Use PyScript – A Python Frontend Framework",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Screenshot-2022-05-26-at-13.28.49.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/lexical-scope-in-javascript/",
-          "author": "Keyur Paralkar",
-          "description": "In this article, we are going to understand what lexical scope is by going through some helpful examples.  We will also have a brief discussion about how JavaScript compiles and executes programs.  Lastly, we will have a look at how you can use lexical scope to explain undeclared",
-          "link": "https://www.freecodecamp.org/news/lexical-scope-in-javascript/",
-          "publishedOn": "2022-05-26T15:27:00.000Z",
-          "wordCount": 2007,
-          "title": "Lexical Scope in JavaScript – Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/spacex--p-KCm6xB9I-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/",
-          "author": "Emmanuel Ohans",
-          "description": "Hey everyone! 😎 In this detailed guide, I’ll show you how to build strongly typed Polymorphic React components with Typescript. If you prefer to read the entire guide in a single PDF document, you can download the accompanying free PDF [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components] . You can download the eBook for free [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components]",
-          "link": "https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/",
-          "publishedOn": "2022-05-26T14:49:10.000Z",
-          "wordCount": 8262,
-          "title": "Intermediate TypeScript and React Handbook – How to Build Strongly Typed Polymorphic Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/6Lc6ro2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/",
-          "author": "Fabio Pacific",
-          "description": "Have you ever wondered how frameworks are built? A couple of weeks ago I was writing an article and asked myself, what's the first line of code Evan You wrote to build Vue.js? Well, thanks to Git and Evan You pushing Vue's code to GitHub, I have been able to",
-          "link": "https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/",
-          "publishedOn": "2022-05-25T21:38:19.000Z",
-          "wordCount": 2353,
-          "title": "How to Code a Framework – the  First Lines of Vue.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-hans-middendorp-9092855.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/",
-          "author": "Shayan",
-          "description": "In this article, I'll explain what Twitter Emoji – or Twemoji – are and why you might want to use them. Why should you use Twitter Emojis? A couple of months ago, I started working on a project of mine, and I needed to allow users to select different icons",
-          "link": "https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/",
-          "publishedOn": "2022-05-25T21:08:49.000Z",
-          "wordCount": 1395,
-          "title": "Twitter Emoji – How to Use Twemoji on Your Website",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Frame-451-4.png"
+          "id": "https://hobby.dengeki.com/?p=1556566",
+          "author": "ガッツ深谷",
+          "description": "「S.H.Figuarts（真骨彫製法）ウルトラマンティガ パワータイプ」がいよいよ5月28日（土）に発売！デラシウム光流エフェクトも付属！ #ウルトラマン #t_shf",
+          "link": "https://hobby.dengeki.com/news/1556566/",
+          "publishedOn": "2022-05-27T23:00:24.000Z",
+          "wordCount": 1304,
+          "title": "フィギュア「S.H.Figuarts（真骨彫製法）ウルトラマンティガ パワータイプ」が5月28日に発売！スーツアクター・中村浩二氏の体を全身スキャンし原型を作成！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/02card_AwJdwsqj2-GDs_x7xsErbCquO8YDt03v.jpg"
         }
       ]
     }
