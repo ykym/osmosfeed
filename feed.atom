@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2022-05-28T11:47:16.592Z</id>
+    <title>osmos::feed</title>
+    <updated>2022-05-28T11:47:16.592Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[C++ Vector – How to Initialize a Vector in a Constructor in C++]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/"/>
+        <updated>2022-05-27T20:08:33.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we'll focus mainly on the various methods]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Loop – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-for-loops/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-for-loops/"/>
+        <updated>2022-05-27T16:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Loops are a programming concept that we constantly encounter and implement as JavaScript developers.  And many developers are familiar with loops, but not everyone understands how they work and why or when they should use a specific type of loop. In this article, we will learn what for loops]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Chrome Extension]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/"/>
+        <updated>2022-05-27T14:35:37.000Z</updated>
+        <summary type="html"><![CDATA[A chrome extension is a software program that is designed to run within the Google Chrome web browser. Extensions can add a variety of functionality to the browser, including providing tools for web development, adding features to the browser interface, and changing the behavior of web pages. We just published]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just How Long Should Alt Text Be?]]></title>
+        <id>https://css-tricks.com/?p=366068</id>
+        <link href="https://css-tricks.com/just-how-long-should-alt-text-be/"/>
+        <updated>2022-05-27T14:25:39.000Z</updated>
+        <summary type="html"><![CDATA[I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …
+Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source 3dicons Library: Case Study And Free Downloads]]></title>
+        <id>https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/</id>
+        <link href="https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/"/>
+        <updated>2022-05-27T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vijay Verma)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Blockchain, Solidity, and Full Stack JavaScript Development]]></title>
+        <id>https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/</id>
+        <link href="https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/"/>
+        <updated>2022-05-26T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[There are thousands of open jobs related to blockchain development companies like IBM, VMware, and Deloitte. We just published a 30-hour course on the freeCodeCamp.org YouTube channel that will help you learn skills related to blockchain, Solidity, and Web3 development. If you are interested in learning about blockchain development, this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String.Split() Example with RegEx]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/"/>
+        <updated>2022-05-26T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, you use RegEx to match patterns in characters. Combining this with the .split() string method gives you more splitting powers. The string constructor has many useful methods [https://dillionmegida.com/p/10-useful-string-methods-in-javascript/], one of which is the split() method. You use this method to split a string into an array of substrings]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beautify GitHub Profile]]></title>
+        <id>https://css-tricks.com/?p=366107</id>
+        <link href="https://css-tricks.com/beautify-github-profile/"/>
+        <updated>2022-05-26T18:13:28.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …
+Beautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PyScript – A Python Frontend Framework]]></title>
+        <id>https://www.freecodecamp.org/news/pyscript-python-front-end-framework/</id>
+        <link href="https://www.freecodecamp.org/news/pyscript-python-front-end-framework/"/>
+        <updated>2022-05-26T15:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Python has grown in popularity immensely in recent years. It has a wide range of applications, from its most popular use in Artificial Intelligence, to Data Science, Robotics, and Scripting.  In the web development field, Python is used mainly on the backend with frameworks such as Django and Flask.]]></summary>
+        <author>
+            <name>Ifihanagbara Olusheye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexical Scope in JavaScript – Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/lexical-scope-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/lexical-scope-in-javascript/"/>
+        <updated>2022-05-26T15:27:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to understand what lexical scope is by going through some helpful examples.  We will also have a brief discussion about how JavaScript compiles and executes programs.  Lastly, we will have a look at how you can use lexical scope to explain undeclared]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intermediate TypeScript and React Handbook – How to Build Strongly Typed Polymorphic Components]]></title>
+        <id>https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/"/>
+        <updated>2022-05-26T14:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! 😎 In this detailed guide, I’ll show you how to build strongly typed Polymorphic React components with Typescript. If you prefer to read the entire guide in a single PDF document, you can download the accompanying free PDF [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components] . You can download the eBook for free [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components]]]></summary>
+        <author>
+            <name>Emmanuel Ohans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D]]></title>
+        <id>https://css-tricks.com/?p=365946</id>
+        <link href="https://css-tricks.com/css-hover-effects-background-masks-3d/"/>
+        <updated>2022-05-26T14:13:01.000Z</updated>
+        <summary type="html"><![CDATA[We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …
+Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage Accessible Design System Themes With CSS Color-Contrast()]]></title>
+        <id>https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/</id>
+        <link href="https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/"/>
+        <updated>2022-05-26T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Yuschik)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizing Color Fonts on the Web]]></title>
+        <id>https://css-tricks.com/?p=366077</id>
+        <link href="https://css-tricks.com/customizing-color-fonts-on-the-web/"/>
+        <updated>2022-05-26T00:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …
+Customizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a Framework – the  First Lines of Vue.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/"/>
+        <updated>2022-05-25T21:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how frameworks are built? A couple of weeks ago I was writing an article and asked myself, what's the first line of code Evan You wrote to build Vue.js? Well, thanks to Git and Evan You pushing Vue's code to GitHub, I have been able to]]></summary>
+        <author>
+            <name>Fabio Pacific</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter Emoji – How to Use Twemoji on Your Website]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/"/>
+        <updated>2022-05-25T21:08:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll explain what Twitter Emoji – or Twemoji – are and why you might want to use them. Why should you use Twitter Emojis? A couple of months ago, I started working on a project of mine, and I needed to allow users to select different icons]]></summary>
+        <author>
+            <name>Shayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Perfect Table of Contents With HTML + CSS]]></title>
+        <id>https://css-tricks.com/?p=365888</id>
+        <link href="https://css-tricks.com/a-perfect-table-of-contents-with-html-css/"/>
+        <updated>2022-05-25T14:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …
+A Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Nicholas C. Zakas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Weak Reference In JavaScript]]></title>
+        <id>https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/</id>
+        <link href="https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/"/>
+        <updated>2022-05-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Frank Joseph explains both weak and strong references in JavaScript, as well as the concept of reachability. Let’s dig in!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frank Joseph)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering SVG’s stroke-miterlimit Attribute]]></title>
+        <id>https://css-tricks.com/?p=365828</id>
+        <link href="https://css-tricks.com/mastering-svgs-stroke-miterlimit-attribute/"/>
+        <updated>2022-05-24T14:04:17.000Z</updated>
+        <summary type="html"><![CDATA[So, SVG has this stroke-miterlimit presentation attribute. You’ve probably seen it when exporting an SVG from a graphic editor program, or perhaps you find out you could remove it without noticing any change to the visual appearance.
+After a good …
+Mastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing An Award-Winning Onboarding Process (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/</id>
+        <link href="https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/"/>
+        <updated>2022-05-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is a case study of how the platformOS team has researched, developed, and iteratively adjusted their onboarding processes over more than three years to eventually create the multiple award winning developer experience they provide today.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kata Nagygyörgy &amp; Diana Lakatos)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Look At The CSS object-view-box Property]]></title>
+        <id>https://css-tricks.com/?p=365992</id>
+        <link href="https://css-tricks.com/first-look-at-the-css-object-view-box-property/"/>
+        <updated>2022-05-23T19:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed — doing what he always does so well — provides an early look at the object-view-box property, something he describes as a native way to crop an image in the browser with CSS.
+The use case? Well, …
+First Look At The CSS object-view-box Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dialog Components: Go Native HTML or Roll Your Own?]]></title>
+        <id>https://css-tricks.com/?p=365804</id>
+        <link href="https://css-tricks.com/dialog-components-roll-your-own/"/>
+        <updated>2022-05-23T14:31:18.000Z</updated>
+        <summary type="html"><![CDATA[As the author of a library called AgnosticUI, I’m always on the lookout for new components. And recently, I decided to dig in and start work on a new dialog (aka modal) component. That’s something many devs like to …
+Dialog Components: Go Native HTML or Roll Your Own? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Rob Levin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lesser-Known And Underused CSS Features In 2022]]></title>
+        <id>https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/</id>
+        <link href="https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/"/>
+        <updated>2022-05-23T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verevolf]]></title>
+        <id>https://css-tricks.com/?p=365971</id>
+        <link href="https://css-tricks.com/verevolf/"/>
+        <updated>2022-05-20T20:24:43.000Z</updated>
+        <summary type="html"><![CDATA[Zeldman:
+You may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.
+That would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …
+Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Free Solo Blog Setup With Ghost And Gatsby]]></title>
+        <id>https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/</id>
+        <link href="https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/"/>
+        <updated>2022-05-20T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Greg Dickens)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inline Image Previews with Sharp, BlurHash, and Lambda Functions]]></title>
+        <id>https://css-tricks.com/?p=365784</id>
+        <link href="https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/"/>
+        <updated>2022-05-19T14:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …
+Inline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes For Frontend Developers]]></title>
+        <id>https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/</id>
+        <link href="https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/"/>
+        <updated>2022-05-19T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Benjamin Ajibade)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interactive Starry Backdrop for Content]]></title>
+        <id>https://css-tricks.com/?p=365766</id>
+        <link href="https://css-tricks.com/an-interactive-starry-backdrop-for-content/"/>
+        <updated>2022-05-18T14:16:43.000Z</updated>
+        <summary type="html"><![CDATA[I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …
+An Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Icons for UI Elements with Typographic Alignment and Scale]]></title>
+        <id>https://css-tricks.com/?p=365531</id>
+        <link href="https://css-tricks.com/improving-icons-for-ui-elements-with-typographic-alignment-and-scale/"/>
+        <updated>2022-05-17T14:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …
+Improving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Marcel Moreau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 46 With Vitaly Friedman: Who Is Elliot Jay Stocks?]]></title>
+        <id>https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/</id>
+        <link href="https://smashingmagazine.com/2022/05/smashing-podcast-episode-46/"/>
+        <updated>2022-05-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we ask how one man can go from designing websites for local bands to heading up Google Fonts Knowledge. Smashing’s Vitaly Friedman talks to Elliot Jay Stocks to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Modern Way To Create And Host A WordPress Site]]></title>
+        <id>https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/</id>
+        <link href="https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/"/>
+        <updated>2022-05-17T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s take a closer look at how you can create your very own WordPress site up and running created and hosted with the Elementor Cloud Website.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nick Babich)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Style Variations in WordPress 6.0 Block Themes]]></title>
+        <id>https://css-tricks.com/?p=365377</id>
+        <link href="https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/"/>
+        <updated>2022-05-16T14:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Global styles, a feature of the block themes, is one of my favorite parts of creating block themes. The concept of global style variations in WordPress were introduced in Gutenberg 12.5 which would allow theme authors to create alternate …
+How to Create Style Variations in WordPress 6.0 Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Server-Timing As A Critical Monitoring Tool]]></title>
+        <id>https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/</id>
+        <link href="https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/"/>
+        <updated>2022-05-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sean Roberts)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Hover Effects That Use CSS Text Shadow]]></title>
+        <id>https://css-tricks.com/?p=365738</id>
+        <link href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/"/>
+        <updated>2022-05-13T14:43:17.000Z</updated>
+        <summary type="html"><![CDATA[In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …
+Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t]]></title>
+        <id>https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/</id>
+        <link href="https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/"/>
+        <updated>2022-05-13T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gerry McGovern)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CSS Slinky in 3D? Challenge Accepted!]]></title>
+        <id>https://css-tricks.com/?p=365706</id>
+        <link href="https://css-tricks.com/a-css-slinky-in-3d/"/>
+        <updated>2022-05-12T14:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Braydon Coyer recently launched a monthly CSS art challenge. He actually had reached out to me about donating a copy of my book Move Things with CSS to use as a prize for the winner of the challenge — …
+A CSS Slinky in 3D? Challenge Accepted! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks]]></title>
+        <id>https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/</id>
+        <link href="https://smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks/"/>
+        <updated>2022-05-12T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Dan Shappir analyzes the performance cost associated with various frameworks and explains the wide variety of framework and platform choices that are currently available to front-end and fullstack developers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dan Shappir)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)]]></title>
+        <id>https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/</id>
+        <link href="https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/"/>
+        <updated>2022-05-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will be taking a closer look at a design case study and discuss possible reasons why its customers abandon their online shopping carts and what solutions are recommended in each particular case.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Denis Studennikov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magical SVG Techniques]]></title>
+        <id>https://smashingmagazine.com/2022/05/magical-svg-techniques/</id>
+        <link href="https://smashingmagazine.com/2022/05/magical-svg-techniques/"/>
+        <updated>2022-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Smart SVG techniques, from generative SVG grids to SVG paths with masks, grainy SVG gradients, cut-out effects and fractional SVG stars. Let’s look at some magical SVG techniques that you can use right away.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance Game Changer: Browser Back/Forward Cache]]></title>
+        <id>https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/</id>
+        <link href="https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/"/>
+        <updated>2022-05-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Give Effective Feedback Remotely]]></title>
+        <id>https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/</id>
+        <link href="https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/"/>
+        <updated>2022-05-06T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joshua Mauldin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resilience, Flexibility And Immediacy: Working With Headless Systems]]></title>
+        <id>https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/</id>
+        <link href="https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/"/>
+        <updated>2022-05-05T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](https://www.storyblok.com/) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stefan Baumgartner)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Language Selector]]></title>
+        <id>https://smashingmagazine.com/2022/05/designing-better-language-selector/</id>
+        <link href="https://smashingmagazine.com/2022/05/designing-better-language-selector/"/>
+        <updated>2022-05-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Don’t Need A UI Framework]]></title>
+        <id>https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/</id>
+        <link href="https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/"/>
+        <updated>2022-05-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Josh Comeau)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make A Wish (May 2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/</id>
+        <link href="https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/"/>
+        <updated>2022-04-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Partytown Eliminates Website Bloat From Third-Party Scripts]]></title>
+        <id>https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/</id>
+        <link href="https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/"/>
+        <updated>2022-04-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steve Sewell)</name>
+        </author>
+    </entry>
+</feed>
