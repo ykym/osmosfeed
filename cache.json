@@ -12,6 +12,106 @@
       "siteUrl": "https://hobby.dengeki.com",
       "articles": [
         {
+          "id": "https://hobby.dengeki.com/?p=1515622",
+          "author": "shinjisumimoto",
+          "description": "テレビアニメ『鬼滅の刃』のプライズアイテムを展開中のセガより、2022年5月にリリースされる新作をご紹介します！ #鬼滅の刃 #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1515622/",
+          "publishedOn": "2022-05-29T01:00:51.000Z",
+          "wordCount": 1241,
+          "title": "テレビアニメ『鬼滅の刃』セガプライズ2022年5月の新作は、「伊之助」の大きなフェイスクッション!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/TC_fUth7Y4c2E1khrSk54Y3aycuvNAXDbOd.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1561170",
+          "author": "shinjisumimoto",
+          "description": "大人気のガシャポンアイテム「はぐこっとーと」シリーズに、ディズニープリンセスの第2弾が登場！ラバーマスコットとエコバッグがセットになった商品です！ #ディズニープリンセス #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1561170/",
+          "publishedOn": "2022-05-29T00:30:57.000Z",
+          "wordCount": 1333,
+          "title": "ディズニープリンセスの「はぐこっとーと」第2弾！シンデレラやアリエルと一緒に楽しくショッピングにお出かけ♪",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/03_tc_5ITw3xzAyMYG9jQYH7JN3dXAHLcsygND.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1559766",
+          "author": "イソベアラタ",
+          "description": "バンダイより、食玩「すみっコぐらしフレンズ6」が登場！ラインナップはしろくま、ぺんぎん？、とんかつ、ねこ、とかげなど全8種。 #すみっコぐらし #食玩",
+          "link": "https://hobby.dengeki.com/news/1559766/",
+          "publishedOn": "2022-05-29T00:00:58.000Z",
+          "wordCount": 1419,
+          "title": "手のひらサイズの食玩ソフビ人形「すみっコぐらしフレンズ」第6弾が5月30日に発売！しろくま＆ふろしきやぺんぎん？＆たぴおかなど全8種がラインナップ！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/samu_Ns_4ly6A6Y8d5h3202VypFPQRsVWGCh4.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1515357",
+          "author": "shinjisumimoto",
+          "description": "『TRUZ』のプライズアイテムを展開中のセガより2022年5月の新作としてリリースされる、集めて可愛いアクリルキーチェーンをチェック！ #TRUZ #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1515357/",
+          "publishedOn": "2022-05-28T23:30:12.000Z",
+          "wordCount": 1168,
+          "title": "TREASUREの公式キャラクター『TRUZ』がセガプライズを席巻！12種のアクリルキーチェーンで日本を盛り上げる!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/TRUZ_TC_sashikae_-anl1xMMP6IhtXiFVUTLC7hW3gHMMIqz.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1555193",
+          "author": "shinjisumimoto",
+          "description": "ガシャポンに、スイッチを入れると発光し、イラストが映し出される『仮面ライダー』シリーズの新アイテム「ルミナスボックス」が登場！ #仮面ライダー #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1555193/",
+          "publishedOn": "2022-05-28T23:00:30.000Z",
+          "wordCount": 1390,
+          "title": "『仮面ライダー』の勇姿を飾る発光ギミック付きガシャポン新アイテム「ルミナスボックス」が誕生!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/15_tc_1Y4W5HYCSz9l5a2R4YDz9v8TxUCfpVxU.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1555288",
+          "author": "shinjisumimoto",
+          "description": "『仮面ライダー』シリーズ50周年記念の新コンテンツ「お昼のショッカーさん」より、キャラクターたちがアクリルチャームになってガシャポンに登場！ #お昼のショッカーさん #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1555288/",
+          "publishedOn": "2022-05-28T22:30:53.000Z",
+          "wordCount": 1488,
+          "title": "『仮面ライダー』ショッカーの戦闘員や怪人がかわいらしいキャラに変身!?「お昼のショッカーさん」のアクリルチャームがガシャポンに登場!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/24_tc_K5DttL5YytbuhU0Xgb7Ei70JWG7s9sEb.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1562740",
+          "author": "森川哲也",
+          "description": "『コードギアス 反逆のルルーシュR2』紅蓮聖天八極式や『暴太郎戦隊ドンブラザーズ』ドンモモタロウなどのフィギュアが秋葉原で展示！ #コードギアス #ドラゴンボール #akiba",
+          "link": "https://hobby.dengeki.com/news/1562740/",
+          "publishedOn": "2022-05-28T22:00:12.000Z",
+          "wordCount": 2302,
+          "title": "『コードギアス』最強のスペックを誇るKMF「紅蓮聖天八極式」が降臨！『ドンブラザーズ』『ドラゴンボール』フィギュアが展示！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/2022akiba054b-2_gBLr-ky4pH0nfPd7nr_NTG09vfB1aO4I.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1515313",
+          "author": "shinjisumimoto",
+          "description": "2021年6月にリリースされて好評を博した「けろけろけろっぴ」のビッグサイズのぬいぐるみが、リクエストに応えてセガのプライズに再び登場！ #けろけろけろっぴ #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1515313/",
+          "publishedOn": "2022-05-28T21:30:37.000Z",
+          "wordCount": 1277,
+          "title": "「けろけろけろっぴ」の大きなぬいぐるみが大好評につきセガプライズに帰ってきました♪",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/04/17_tc_bpuyYM85X3pS8OzqnSOZwJL1RBIP_Vbw.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1555224",
+          "author": "shinjisumimoto",
+          "description": "明治のお菓子をミニチュアチャームにしたガシャポンの「明治シャカシャカチャーム」に第3弾が登場！新たに「チョコベビー」「ハイレモン」もラインナップ！ #meiji #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1555224/",
+          "publishedOn": "2022-05-28T21:00:28.000Z",
+          "wordCount": 1409,
+          "title": "振るとシャカシャカ音が鳴る♪明治の人気お菓子のチャームアイテム第3弾に「チョコベビー」や「ハイレモン」「ヨーグレット」が仲間入り！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/18_tc_OceLHKgKFfElrzKXlI-cKkr3dAMqp9hf.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1560212",
+          "author": "イソベアラタ",
+          "description": "『暴太郎戦隊ドンブラザーズ』より、全身約20カ所可動のアクションフィギュア「勇動」が登場！付け替え可能な平手や武器パーツなどのオプションパーツも多数収録！ #暴太郎戦隊ドンブラザーズ #食玩 #フィギュア",
+          "link": "https://hobby.dengeki.com/news/1560212/",
+          "publishedOn": "2022-05-28T20:30:57.000Z",
+          "wordCount": 1510,
+          "title": "『暴太郎戦隊ドンブラザーズ』全身約20カ所可動のアクションフィギュア「勇動」が食玩に登場！平手や武器パーツなどのオプションパーツも多数収録！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/samu_yl7TwqMrhlWz7c_jJs06vvDQVeHF1ayA.jpg"
+        },
+        {
           "id": "https://hobby.dengeki.com/?p=1555327",
           "author": "shinjisumimoto",
           "description": "Netflix人気ドラマ『ストレンジャー・シングス』のアソートコレクションがバンダイのガシャポンに登場！ラバマスと缶バッジがラインナップ！ #ストレンジャー・シングス #ガシャポン",
