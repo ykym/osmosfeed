@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ykym.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T00:56:39.953Z</updated>
+    <updated>2022-06-04T00:58:01.260Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ykym.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://ykym.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スムージーやジュースを飲むのに最適！『ミッフィー』より、果物イラストがデザインされた「ドリンクカップ」がプライズ投入決定！タイクレ限定版を含める3種類がラインナップ！]]></title>
+        <id>https://hobby.dengeki.com/?p=1567898</id>
+        <link href="https://hobby.dengeki.com/news/1567898/"/>
+        <updated>2022-06-04T00:30:58.000Z</updated>
+        <summary type="html"><![CDATA[『ミッフィー』より、ドリンクカップが登場！果物がデザインされた通常版と、アイスなどがデザインされたタイクレ限定版がラインナップ！ #ミッフィー]]></summary>
+        <author>
+            <name>齋藤泰成</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渋いカラーリングとシボ加工された壺がリアル！焼酎用のサーバーのミニチュアマスコットがカプセルトイに登場！]]></title>
+        <id>https://hobby.dengeki.com/?p=1568771</id>
+        <link href="https://hobby.dengeki.com/news/1568771/"/>
+        <updated>2022-06-04T00:00:17.000Z</updated>
+        <summary type="html"><![CDATA[カプセルトイ「焼酎サーバーマスコット」が登場！渋いカラーリングとシボ加工された壺がリアルです。全5種がラインナップ！ #カプセルトイ]]></summary>
+        <author>
+            <name>川鍋 信利</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分の憧れの駅を再現できる！プラレールに4つの形に変形可能な駅「サウンドチェンジ！マイステーション 4WAY」が新登場!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1568754</id>
+        <link href="https://hobby.dengeki.com/news/1568754/"/>
+        <updated>2022-06-03T23:30:02.000Z</updated>
+        <summary type="html"><![CDATA[自分の憧れの駅を再現できる変形ステーション「プラレール　サウンドチェンジ！マイステーション 4WAY」が新登場！駅の形によって停車・発車時のサウンドが変わる！ #プラレール]]></summary>
+        <author>
+            <name>山中 嵩志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「たべっ子どうぶつ」の可愛いカステラが3分で焼き上がる♪「たべっ子どうぶつカステラメーカー」が登場！6月10日から先行予約販売実施!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1568585</id>
+        <link href="https://hobby.dengeki.com/news/1568585/"/>
+        <updated>2022-06-03T23:00:17.000Z</updated>
+        <summary type="html"><![CDATA[「たべっ子どうぶつ」らいおんくん、かばさんたちのかわいいカステラが焼き上がる「たべっ子どうぶつカステラメーカー」が登場！焼くのもお手入れも簡単！先行予約販売も実施！ #たべっ子どうぶつ]]></summary>
+        <author>
+            <name>山中 嵩志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画でも大活躍！米海軍「F/A-18 スーパーホーネット」と変わらぬ人気「F-14 トムキャット」のいま買えるプラモデルをAmazonでチェック！]]></title>
+        <id>https://hobby.dengeki.com/?p=1568515</id>
+        <link href="https://hobby.dengeki.com/news/1568515/"/>
+        <updated>2022-06-03T22:30:30.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ海軍が誇る戦闘攻撃機「F/A-18E/F スーパーホーネット」と退役した今も変わらぬ人気の「F-14 トムキャット」のプラモデルをピックアップしてご紹介！ #プラモデル]]></summary>
+        <author>
+            <name>小川 陽平</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「超勇者展2」イベント限定グッズの通販が6月10日より開始！勇者シリーズ名場面ブロマイドや特製紙ショッパーなどの特典も]]></title>
+        <id>https://hobby.dengeki.com/?p=1568540</id>
+        <link href="https://hobby.dengeki.com/news/1568540/"/>
+        <updated>2022-06-03T22:00:35.000Z</updated>
+        <summary type="html"><![CDATA[「超勇者展2」グッズの通販が6月10日17時より開始！勇者シリーズ名場面ブロマイド、超勇者展2缶入りドロップなど通販限定の購入特典のプレゼントが実施！ #超勇者展2]]></summary>
+        <author>
+            <name>川鍋 信利</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『あああ!!お客様困ります!!』の「おきゃこま」マスコットがセガプライズに登場！カラフルなリボンがポイントです♪]]></title>
+        <id>https://hobby.dengeki.com/?p=1515426</id>
+        <link href="https://hobby.dengeki.com/news/1515426/"/>
+        <updated>2022-06-03T21:30:49.000Z</updated>
+        <summary type="html"><![CDATA[『あああ!!お客様困ります!!』の“おきゃこま”どうぶつさんたちが、カラフルなリボンをつけたマスコットになってセガのプライズに登場です！ #もちもち #お客様困ります #セガプライズ]]></summary>
+        <author>
+            <name>shinjisumimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[おうちで動物園気分が楽しめる「一番くじ動物園」が6月4日（土）発売！赤ちゃんライオンやホッキョクグマのぬいぐるみがラインナップ！]]></title>
+        <id>https://hobby.dengeki.com/?p=1568181</id>
+        <link href="https://hobby.dengeki.com/news/1568181/"/>
+        <updated>2022-06-03T21:00:11.000Z</updated>
+        <summary type="html"><![CDATA[「一番くじ動物園 ～Ichiban Zoo～」が2022年6月4日（土）より順次発売！ぬいぐるみやタオルケット、マスコット、フィギュア、プレート、刺繍タオルといったアイテム情報が公開！ #一番くじ動物園]]></summary>
+        <author>
+            <name>森川哲也</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガイアノーツ「Exシリーズ Ex-03 Ex-クリアー」など：Amazonホビー「ツール系アイテム」売れ筋ランキング（2022年6月3日版）]]></title>
+        <id>https://hobby.dengeki.com/?p=1569241</id>
+        <link href="https://hobby.dengeki.com/news/1569241/"/>
+        <updated>2022-06-03T20:00:14.000Z</updated>
+        <summary type="html"><![CDATA[ガイアノーツ「Exシリーズ Ex-03 Ex-クリアー」など、2022年6月3日16:00時点でAmazonで売れているツール系アイテムをご紹介！ #プラモデル #ツール]]></summary>
+        <author>
+            <name>shinjisumimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『桃太郎電鉄～昭和 平成 令和も定番！～』のボンビーたちがマスコットフィギュアになってタカラトミーアーツのガチャに出現!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1549413</id>
+        <link href="https://hobby.dengeki.com/news/1549413/"/>
+        <updated>2022-06-03T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[人気ゲーム『桃太郎電鉄～昭和 平成 令和も定番！～』より、「ボンビー」たちがマスコットフィギュアになりました！ #桃太郎電鉄 #タカラトミーアーツ]]></summary>
+        <author>
+            <name>廣江聡美</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『機動戦士ガンダムΖΖ』に登場したMS・バウのHGガンプラがプレミアムバンダイで販売！各関節のポリキャップ採用によりバウ・ナッター、バウ・アタッカーへのスムーズな変形が可能！]]></title>
         <id>https://hobby.dengeki.com/?p=1568011</id>
