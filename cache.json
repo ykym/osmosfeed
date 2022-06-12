@@ -12,6 +12,106 @@
       "siteUrl": "https://hobby.dengeki.com",
       "articles": [
         {
+          "id": "https://hobby.dengeki.com/?p=1569209",
+          "author": "廣江聡美",
+          "description": "TVアニメ『僕のヒーローアカデミア』より、ミニサイズのエコバッグがタカラトミーアーツのガチャに登場です！ #ヒロアカ #タカラトミーアーツ",
+          "link": "https://hobby.dengeki.com/news/1569209/",
+          "publishedOn": "2022-06-12T01:00:56.000Z",
+          "wordCount": 1448,
+          "title": "『僕のヒーローアカデミア』からミニサイズの「かぷばっぐmini」が登場！サブバッグにもピッタリの全6種♪",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/07/bf410d05e05f096355271a514594c227_uSkC0RQ0UxFG5gxgKsr7_-v3Y1CBrtmz.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1570796",
+          "author": "齋藤泰成",
+          "description": "『マイクラ』より、ボールチェーン付きの「立体アイテムラバーフィギュア」が登場！ダイヤ、ネザライトなどの素材で作られた剣、斧、ツルハシがラインナップ！ #minecraft",
+          "link": "https://hobby.dengeki.com/news/1570796/",
+          "publishedOn": "2022-06-12T00:30:47.000Z",
+          "wordCount": 1279,
+          "title": "リアル世界でも探索だ！『マインクラフト』より、ゲーム内に登場する剣、斧、ツルハシの「立体アイテムラバーフィギュア」が登場！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/1200_LTkeZZ6QB4QGDRr3Z60QP6hVZzB7EAuS.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1571066",
+          "author": "篠崎健",
+          "description": "『ドラゴンボール超』より、アクリルチャームがダイカット型のビッグサイズで登場！映画『ドラゴンボール超 スーパーヒーロー』で活躍するキャラクターたちがラインナップ！ #ドラゴンボール #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1571066/",
+          "publishedOn": "2022-06-12T00:00:11.000Z",
+          "wordCount": 1546,
+          "title": "映画『ドラゴンボール超 スーパーヒーロー』のアクリルチャーム第1弾！「ガンマ1号」や「2号」ら映画キャラクターが続々参戦!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/twi_1000175142_2_bEmxqvL2dTQ1kty2Wd-OVP2Z5eRe78Lc.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1539904",
+          "author": "shinjisumimoto",
+          "description": "サンリオキャラクターの人気者「ポチャッコ」のプライズアイテムを展開中のセガより、2022年6月にリリースされる新作2点をご紹介します！ #ポチャッコ #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1539904/",
+          "publishedOn": "2022-06-11T23:30:41.000Z",
+          "wordCount": 1317,
+          "title": "「ポチャッコ」のぬいぐるみポシェットと振り向きポーズのぬいぐるみ！変わらぬ可愛さをセガプライズからお届け♪",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/30_tc_SxTe8LZvAtEL24VLZ1ZaXNOn_o8-qtS0.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1571217",
+          "author": "篠崎健",
+          "description": "『暴太郎戦隊ドンブラザーズ』より、劇中に登場する合体ロボやアルターがガシャポンフィギュアになって登場！ #ドンブラザーズ #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1571217/",
+          "publishedOn": "2022-06-11T23:00:11.000Z",
+          "wordCount": 1367,
+          "title": "『暴太郎戦隊ドンブラザーズ』のガシャポンフィギュアがガシャポンにリリース！巨大ロボ「ドンオニタイジン」も堂々参上!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/twi_1000175145_2_v3naevHxf52BdB9km-lH4ngowuEbwr2q.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1539771",
+          "author": "shinjisumimoto",
+          "description": "『トイ・ストーリー』シリーズのプライズアイテムを展開中のセガより、2022年6月にリリースされる新作5点をご紹介します！ #トイストーリー #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1539771/",
+          "publishedOn": "2022-06-11T22:30:06.000Z",
+          "wordCount": 1506,
+          "title": "『トイ・ストーリー』のランチプレートや水鉄砲で楽しいひと時を♪「ウッディ」「ロッツォ」「スリンキードッグ」のぬいぐるみも登場!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/05/14_tc_pJU4J9Jz7HqWcjF9gAFk4DSuOGrpkLpF.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1575682",
+          "author": "森川哲也",
+          "description": "『ホロライブ』白上フブキや『IdentityV 第五人格』庭師、『五等分の花嫁』中野五月、『カッコウの許嫁』海野 幸、瀬川ひろなどのフィギュアが秋葉原で展示！ #ホロライブ #第五人格 #akiba",
+          "link": "https://hobby.dengeki.com/news/1575682/",
+          "publishedOn": "2022-06-11T22:00:07.000Z",
+          "wordCount": 2512,
+          "title": "自然体で可愛い『ホロライブ』白上フブキがプライズに登場！『IdentityV 第五人格』『五等分の花嫁』『カッコウの許嫁』フィギュアが展示",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/2022akiba062b-2_fDpGcbFkx743GpZOpQeFP8qo3m3xgeXB.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1573163",
+          "author": "イソベアラタ",
+          "description": "「『ジュラシック・ワールド／新たなる支配者』 POP UP」の開催が決定！最新映画で初登場する恐竜の紹介パネル展示や、グッズ販売などが行われます！ #ジュラシック・ワールド #フィギュア",
+          "link": "https://hobby.dengeki.com/news/1573163/",
+          "publishedOn": "2022-06-11T21:30:28.000Z",
+          "wordCount": 1487,
+          "title": "恐竜のパネル展示やプライム1スタジオ製スタチューの特別展示＆販売も！『ジュラシック・ワールド／新たなる支配者』の公開を記念したイベントが全国5都市の松坂屋で開催決定！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/samu_1VsWrFOvIBsiaVb6CpnTmIJaDqP-ztc-.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1569542",
+          "author": "shinjisumimoto",
+          "description": "タカラトミーアーツがカプセルトイで展開する夏の定番アイテム「こむしちゃんのかんづめ」が2022年も登場！33年目の今年もうれしい1回100円です！ #こむしちゃんのかんづめ #タカラトミーアーツ",
+          "link": "https://hobby.dengeki.com/news/1569542/",
+          "publishedOn": "2022-06-11T21:00:30.000Z",
+          "wordCount": 1646,
+          "title": "2022年で33年目！タカラトミーアーツの夏の恒例ガチャ「こむしちゃんのかんづめ」が今夏も出現!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/04_tc_k8XiqczhO6Onhjc_bVxRdB46Bu3GkIX7.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1539930",
+          "author": "shinjisumimoto",
+          "description": "映画『JAWS』の人食い鮫「ジョーズ」が、可愛らしいデフォルメデザインのぬいぐるみになってセガのプライズに登場！2022年6月のリリースです！ #ジョーズ #JAWS #セガプライズ",
+          "link": "https://hobby.dengeki.com/news/1539930/",
+          "publishedOn": "2022-06-11T15:00:03.000Z",
+          "wordCount": 1206,
+          "title": "名作映画『JAWS』から、ジョーズのクッションがセガプライズに出現！ビーチの平和を守るためにクレーンゲームで捕獲せよ!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/TC_JAWS_HyeBD2mrLO7TuCcskIY0NKbUhdWGBSJW.jpg"
+        },
+        {
           "id": "https://hobby.dengeki.com/?p=1571410",
           "author": "篠崎健",
           "description": "2022年4月から地上波にてアニメ放送中の『ミラキュラス　レディバグ＆シャノワール』から、カプセルラバーマスコットが登場！ #ミラキュラス #ガシャポン",
