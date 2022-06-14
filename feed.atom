@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ykym.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-13T01:05:09.454Z</updated>
+    <updated>2022-06-14T01:12:56.334Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ykym.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://ykym.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『ムーミン』より、大好評のマスコットシリーズ第16弾が登場！弾ける笑顔のムーミン、リトルミイを含む5種類が展開！]]></title>
+        <id>https://hobby.dengeki.com/?p=1576215</id>
+        <link href="https://hobby.dengeki.com/news/1576215/"/>
+        <updated>2022-06-14T01:00:30.000Z</updated>
+        <summary type="html"><![CDATA[『ムーミン谷の仲間たち』ボールチェーン付きのマスコットシリーズ第16弾がプライズで登場！ムーミン、リトルミイを含む人気キャラクターたちが集結！ #ムーミン #moomin]]></summary>
+        <author>
+            <name>齋藤泰成</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレビアニメ『鬼滅の刃』セガプライズ2022年6月の新作アイテム！「遊郭編」のバスタオルや「栗花落カナヲ」のクッションが登場！]]></title>
+        <id>https://hobby.dengeki.com/?p=1540105</id>
+        <link href="https://hobby.dengeki.com/news/1540105/"/>
+        <updated>2022-06-14T00:30:48.000Z</updated>
+        <summary type="html"><![CDATA[テレビアニメ『鬼滅の刃』のプライズを展開中のセガより、2022年6月にリリースされる雑貨アイテムの新作3点をご紹介します。 #鬼滅の刃 #セガプライズ]]></summary>
+        <author>
+            <name>shinjisumimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画『ドラゴンボール超 スーパーヒーロー』のカードダス プレミアムエディションが登場！悟飯やピッコロたちがプリズム仕様のカードに！]]></title>
+        <id>https://hobby.dengeki.com/?p=1577657</id>
+        <link href="https://hobby.dengeki.com/news/1577657/"/>
+        <updated>2022-06-14T00:14:59.000Z</updated>
+        <summary type="html"><![CDATA[「ドラゴンボールカードダス プレミアムエディション ドラゴンボール超 スーパーヒーロー ウォームアップVER.」が登場！プレミアムバンダイにて6月14日11時より予約開始！ #ドラゴンボール]]></summary>
+        <author>
+            <name>ガッツ深谷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東映レトロソフビコレクション新作は「原作版 仮面ライダー（扉絵カラー）」と「さそり男（新色）」「シラキュラス」！さらに『キカイダー』からは「イエロージャガー（新色）」!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1546194</id>
+        <link href="https://hobby.dengeki.com/news/1546194/"/>
+        <updated>2022-06-14T00:00:43.000Z</updated>
+        <summary type="html"><![CDATA[今年で10周年を迎えるメディコム・トイ「東映レトロソフビコレクション」シリーズより、2022年9月下旬に発売される原作版の仮面ライダーなど新作4点を紹介！ #仮面ライダー #キカイダー #メディコムトイ]]></summary>
+        <author>
+            <name>shinjisumimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『機動戦士Zガンダム』巨大可変モビルアーマー「サイコガンダム」をデザインしたTシャツとトートバッグが登場！ビッグサイズアイテム！]]></title>
+        <id>https://hobby.dengeki.com/?p=1577640</id>
+        <link href="https://hobby.dengeki.com/news/1577640/"/>
+        <updated>2022-06-13T23:55:13.000Z</updated>
+        <summary type="html"><![CDATA[『機動戦士Zガンダム』より「サイコガンダム ビッグシルエットTシャツ」と「サイコガンダム ビッグサイズトートバッグ」が登場！ #ガンダム #gundam]]></summary>
+        <author>
+            <name>ガッツ深谷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[みんなで一緒にキャンプしよう！『ゆるキャン△』より、なでしこ、リンらがラインナップされた約13センチの「おおきめマスコット」が登場です！]]></title>
+        <id>https://hobby.dengeki.com/?p=1570768</id>
+        <link href="https://hobby.dengeki.com/news/1570768/"/>
+        <updated>2022-06-13T23:30:38.000Z</updated>
+        <summary type="html"><![CDATA[『ゆるキャン△』キャンプのお供にぜひとも連れて行きたい「おおきめマスコット」が登場！志摩リン、各務原なでしこ、斉藤恵那、大垣千明、犬山あおいの5人がラインナップ！ #ゆるキャン]]></summary>
+        <author>
+            <name>齋藤泰成</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ドラゴンボールZ』残忍なサイヤ人・ターレスが超ビッグサイズソフビフィギュア「ギガンティックシリーズ」から発売決定！プレミアムバンダイでは6月14日（火）予約開始！]]></title>
+        <id>https://hobby.dengeki.com/?p=1576919</id>
+        <link href="https://hobby.dengeki.com/news/1576919/"/>
+        <updated>2022-06-13T23:00:24.000Z</updated>
+        <summary type="html"><![CDATA[TVアニメ『ドラゴンボールZ』のターレスが超ビッグサイズソフビフィギュア「ギガンティックシリーズ」で発売決定！プレミアムバンダイでは6月14日（火）予約開始！ #ドラゴンボールZ #dragonball]]></summary>
+        <author>
+            <name>住谷明夫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『アンパンマン』のポケットティッシュカバー第4弾とジャンボクッション第3弾で、お部屋の中にアンパンマンがいっぱい♪]]></title>
+        <id>https://hobby.dengeki.com/?p=1539959</id>
+        <link href="https://hobby.dengeki.com/news/1539959/"/>
+        <updated>2022-06-13T22:30:21.000Z</updated>
+        <summary type="html"><![CDATA[アニメ『それいけ！アンパンマン』より、「アンパンマン」と仲間たちの可愛いポケットティッシュカバー第4弾がセガのプライズに登場！ #アンパンマン #セガプライズ]]></summary>
+        <author>
+            <name>shinjisumimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[タイムオーバーになるとビスケット型のピースが飛び出す！「たべっ子どうぶつ」のビスケットをはめるパズルゲームが登場！]]></title>
+        <id>https://hobby.dengeki.com/?p=1576544</id>
+        <link href="https://hobby.dengeki.com/news/1576544/"/>
+        <updated>2022-06-13T22:15:42.000Z</updated>
+        <summary type="html"><![CDATA[メガハウスより、「たべっ子どうぶつ どきどきビスケットパズル」が登場！制限時間内に正しいビスケットピースをどうぶつトレイにはめていくパズルゲームです。 #たべっ子どうぶつ]]></summary>
+        <author>
+            <name>イソベアラタ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[のびのびした体のなが～い「シナモロール」が愛おしい！2種類の表情に癒やされる「のびふにゃBIGぬいぐるみ」がプライズで登場！]]></title>
+        <id>https://hobby.dengeki.com/?p=1570818</id>
+        <link href="https://hobby.dengeki.com/news/1570818/"/>
+        <updated>2022-06-13T22:00:52.000Z</updated>
+        <summary type="html"><![CDATA[「シナモン」胴長フォルムで抱き心地バツグンな「のびふにゃBIGぬいぐるみ」が登場！ゆるゆるな2種類の表情が楽しめちゃいます！ #シナモロール]]></summary>
+        <author>
+            <name>齋藤泰成</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佐世保航空隊の「二式水戦」が1/48スケールでハセガワから限定キット化！完成見本写真を公開!!]]></title>
         <id>https://hobby.dengeki.com/?p=1569472</id>
