@@ -4,13 +4,124 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "author": null,
+          "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "publishedOn": "2022-06-18T19:01:33.000Z",
+          "wordCount": 280,
+          "title": "v1.15.0",
+          "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
+        }
+      ]
     },
     {
       "title": "ニュース – 電撃ホビーウェブ",
       "feedUrl": "https://hobby.dengeki.com/news/feed/",
       "siteUrl": "https://hobby.dengeki.com",
       "articles": [
+        {
+          "id": "https://hobby.dengeki.com/?p=1577588",
+          "author": "shinjisumimoto",
+          "description": "フィッシャープライスの人気トイのミニチュアマスコットが、好評に応えてガシャポンに再び登場です！ #フィッシャープライス #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1577588/",
+          "publishedOn": "2022-06-18T23:30:32.000Z",
+          "wordCount": 1963,
+          "title": "フィッシャープライスの人気トイのミニチュアマスコットがガシャポンに再登場！ダイヤルが回るチャッターフォンなど全4種すべてギミック付き！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/20_tc_oObip85m08lPdI3WfC0MBDCOkzS-ssMd.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1577332",
+          "author": "shinjisumimoto",
+          "description": "スイッチを入れると発光し、ライダーたちのイラストが映し出されるガシャポンの『仮面ライダー』シリーズ新アイテム「ルミナスボックス」に早くも第2弾が登場！ #仮面ライダー #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1577332/",
+          "publishedOn": "2022-06-18T23:00:56.000Z",
+          "wordCount": 2094,
+          "title": "『仮面ライダー』の勇姿が浮かび上がる！発光ギミック付きガシャポン新アイテム「ルミナスボックス」の第2弾がリリース!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/05_tc_A6OoGw3z9OQWsj8F_pGhKPjc9ooNlzEM.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1569563",
+          "author": "shinjisumimoto",
+          "description": "新作映画『ミニオンズ フィーバー』に登場するパイロットとキャビンアテンダント衣装のミニオンたちが、タカラトミーアーツのガチャでフィギュアマスコットに！ #ミニオンズ #Minions #タカラトミーアーツ",
+          "link": "https://hobby.dengeki.com/news/1569563/",
+          "publishedOn": "2022-06-18T22:30:39.000Z",
+          "wordCount": 2014,
+          "title": "劇中の衣装を着た「ミニオン」たちが大フィーバー！タカラトミーアーツのフィギュアマスコットは集めて楽しい全4種類!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/05_tc_B_MumX2EHzHRkYnVtDjHrH8jkv_tozJH.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1583356",
+          "author": "森川哲也",
+          "description": "『ウマ娘 プリティーダービー』ゴールドシップや『リゼロ』レム、『SPY×FAMILY』ロイド・フォージャー、『BLEACH』黒崎一護などのプライズフィギュアが秋葉原で展示！ #ウマ娘 #リゼロ #akiba",
+          "link": "https://hobby.dengeki.com/news/1583356/",
+          "publishedOn": "2022-06-18T22:00:35.000Z",
+          "wordCount": 2709,
+          "title": "『ウマ娘 プリティーダービー』ゴールドシップが制服姿で登場！『SPY×FAMILY』『リゼロ』などのプライズフィギュアが秋葉原で展示！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/2022akiba063b-2_rRgjaR9bljCmdRNGsxTpxTcC-nHEoLc3.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1577470",
+          "author": "shinjisumimoto",
+          "description": "大人気のガシャポン指輪アイテム「Rigcolle!」シリーズにハムスターたちが仲間入り！指につけると「がぶっ！」とかまれたように見えるリングです！ #がぶりんぐ #Rigcolle #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1577470/",
+          "publishedOn": "2022-06-18T21:30:52.000Z",
+          "wordCount": 2135,
+          "title": "ハムスターが指にかぶりつく!?ガシャポン指輪アイテム「がぶりんぐ」で、指先をハムスターで飾ろう♪",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/13_tc_y2qSFaq19D_CRWc0AttOZd3N8wQt97qt.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1549454",
+          "author": "廣江聡美",
+          "description": "タカラトミーアーツのガチャマシンがミニチュアモデルとなってカプセルトイに登場！ #タカラトミーアーツ",
+          "link": "https://hobby.dengeki.com/news/1549454/",
+          "publishedOn": "2022-06-18T21:00:22.000Z",
+          "wordCount": 2027,
+          "title": "これぞガチャのガチャ!?タカラトミーアーツのガチャマシンがミニチュアになって登場！回すと出てくるミニカプセル付き!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/9c91d16bd17c6b4a31e051592c68a0cd__S0_HKZYwBC_ohlyn4nC2vXmdEVzICOv.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1578387",
+          "author": "篠崎健",
+          "description": "ガシャポンリアルフィギュア「HGシリーズ」の昭和の『仮面ライダー』をフィーチャーした「classic」シリーズに第2弾が登場！ #仮面ライダー #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1578387/",
+          "publishedOn": "2022-06-18T20:00:06.000Z",
+          "wordCount": 2056,
+          "title": "『仮面ライダー』のHGフィギュアclassicシリーズ第2弾に新1号が参上！ショッカー怪人もコンプリートを目指せ!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/twi_1000175140_2_mMfwf9W981J6LM88i04Ym6w948N9b8c5.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1583464",
+          "author": "高橋佑太",
+          "description": "『TIGER＆BUNNY 2』PROPLICA ストレージバングル、Figuarts mini 仙石 昴、トーマス・トーラス、ラーラ・チャイコスカヤが商品化決定＆6月23日（木）詳細公開予定！ダブルチェイサー＆オプションパーツセットも商品化決定！ #tigerbunny #タイバニ",
+          "link": "https://hobby.dengeki.com/news/1583464/",
+          "publishedOn": "2022-06-18T12:15:17.000Z",
+          "wordCount": 1957,
+          "title": "『TIGER＆BUNNY 2』PROPLICA ストレージバングル、Figuarts mini 仙石 昴、トーマス、ラーラ、S.H.Figuarts ダブルチェイサー＆オプションパーツセットが商品化決定！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/tw_p6VyZLzS22tB4sr_r2e6F8HWOr7P9pPz.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1583205",
+          "author": "ガッツ深谷",
+          "description": "2023年春ごろにプレミアムバンダイ限定で発売予定！『機動戦士ガンダムSEED』連合のあの機体がGフレームFAでフィギュア化!? #ガンダム #Gフレーム",
+          "link": "https://hobby.dengeki.com/news/1583205/",
+          "publishedOn": "2022-06-18T09:00:35.000Z",
+          "wordCount": 1885,
+          "title": "『機動戦士ガンダムSEED』連合のあの機体がGフレームFAでフィギュア化!?印象的なシルエットが公開！（バンダイキャンディスタッフBLOG）",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/02card_dHs9YpIKzkH9UhKPC7pYwUv6ye80t9y9.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1583355",
+          "author": "森川哲也",
+          "description": "『閃乱カグラ』両備や両奈、『プリコネ』イリヤ、コッコロ、『ギルティギア』メイ、『カッコウの許嫁』天野エリカなどの新作フィギュアが秋葉原で展示！ #閃乱カグラ #プリコネ #akiba",
+          "link": "https://hobby.dengeki.com/news/1583355/",
+          "publishedOn": "2022-06-18T08:30:34.000Z",
+          "wordCount": 2829,
+          "title": "双子の美少女姉妹がセクシーなバニーガールに！『閃乱カグラ』『プリコネ』『カッコウの許嫁』などの新作フィギュアが秋葉原で展示！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/2022akiba063a-2_1Cor6kpOteP9yPTjntGk0gh29D79Xx9k.jpg"
+        },
         {
           "id": "https://hobby.dengeki.com/?p=1582979",
           "author": "川鍋 信利",
@@ -2214,5 +2325,5 @@
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }

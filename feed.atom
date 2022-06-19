@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ykym.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T01:02:55.760Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T01:03:24.097Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://ykym.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://ykym.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フィッシャープライスの人気トイのミニチュアマスコットがガシャポンに再登場！ダイヤルが回るチャッターフォンなど全4種すべてギミック付き！]]></title>
+        <id>https://hobby.dengeki.com/?p=1577588</id>
+        <link href="https://hobby.dengeki.com/news/1577588/"/>
+        <updated>2022-06-18T23:30:32.000Z</updated>
+        <summary type="html"><![CDATA[フィッシャープライスの人気トイのミニチュアマスコットが、好評に応えてガシャポンに再び登場です！ #フィッシャープライス #ガシャポン]]></summary>
+        <author>
+            <name>shinjisumimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『仮面ライダー』の勇姿が浮かび上がる！発光ギミック付きガシャポン新アイテム「ルミナスボックス」の第2弾がリリース!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1577332</id>
+        <link href="https://hobby.dengeki.com/news/1577332/"/>
+        <updated>2022-06-18T23:00:56.000Z</updated>
+        <summary type="html"><![CDATA[スイッチを入れると発光し、ライダーたちのイラストが映し出されるガシャポンの『仮面ライダー』シリーズ新アイテム「ルミナスボックス」に早くも第2弾が登場！ #仮面ライダー #ガシャポン]]></summary>
+        <author>
+            <name>shinjisumimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[劇中の衣装を着た「ミニオン」たちが大フィーバー！タカラトミーアーツのフィギュアマスコットは集めて楽しい全4種類!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1569563</id>
+        <link href="https://hobby.dengeki.com/news/1569563/"/>
+        <updated>2022-06-18T22:30:39.000Z</updated>
+        <summary type="html"><![CDATA[新作映画『ミニオンズ フィーバー』に登場するパイロットとキャビンアテンダント衣装のミニオンたちが、タカラトミーアーツのガチャでフィギュアマスコットに！ #ミニオンズ #Minions #タカラトミーアーツ]]></summary>
+        <author>
+            <name>shinjisumimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ウマ娘 プリティーダービー』ゴールドシップが制服姿で登場！『SPY×FAMILY』『リゼロ』などのプライズフィギュアが秋葉原で展示！]]></title>
+        <id>https://hobby.dengeki.com/?p=1583356</id>
+        <link href="https://hobby.dengeki.com/news/1583356/"/>
+        <updated>2022-06-18T22:00:35.000Z</updated>
+        <summary type="html"><![CDATA[『ウマ娘 プリティーダービー』ゴールドシップや『リゼロ』レム、『SPY×FAMILY』ロイド・フォージャー、『BLEACH』黒崎一護などのプライズフィギュアが秋葉原で展示！ #ウマ娘 #リゼロ #akiba]]></summary>
+        <author>
+            <name>森川哲也</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハムスターが指にかぶりつく!?ガシャポン指輪アイテム「がぶりんぐ」で、指先をハムスターで飾ろう♪]]></title>
+        <id>https://hobby.dengeki.com/?p=1577470</id>
+        <link href="https://hobby.dengeki.com/news/1577470/"/>
+        <updated>2022-06-18T21:30:52.000Z</updated>
+        <summary type="html"><![CDATA[大人気のガシャポン指輪アイテム「Rigcolle!」シリーズにハムスターたちが仲間入り！指につけると「がぶっ！」とかまれたように見えるリングです！ #がぶりんぐ #Rigcolle #ガシャポン]]></summary>
+        <author>
+            <name>shinjisumimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これぞガチャのガチャ!?タカラトミーアーツのガチャマシンがミニチュアになって登場！回すと出てくるミニカプセル付き!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1549454</id>
+        <link href="https://hobby.dengeki.com/news/1549454/"/>
+        <updated>2022-06-18T21:00:22.000Z</updated>
+        <summary type="html"><![CDATA[タカラトミーアーツのガチャマシンがミニチュアモデルとなってカプセルトイに登場！ #タカラトミーアーツ]]></summary>
+        <author>
+            <name>廣江聡美</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『仮面ライダー』のHGフィギュアclassicシリーズ第2弾に新1号が参上！ショッカー怪人もコンプリートを目指せ!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1578387</id>
+        <link href="https://hobby.dengeki.com/news/1578387/"/>
+        <updated>2022-06-18T20:00:06.000Z</updated>
+        <summary type="html"><![CDATA[ガシャポンリアルフィギュア「HGシリーズ」の昭和の『仮面ライダー』をフィーチャーした「classic」シリーズに第2弾が登場！ #仮面ライダー #ガシャポン]]></summary>
+        <author>
+            <name>篠崎健</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.15.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"/>
+        <updated>2022-06-18T19:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Added: Resolve relative URLs in item link and media
+Added: Item thumbnail fallback to channel thumbnail
+Chore: Dependency updates
+Thank you: @cpwnd]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『TIGER＆BUNNY 2』PROPLICA ストレージバングル、Figuarts mini 仙石 昴、トーマス、ラーラ、S.H.Figuarts ダブルチェイサー＆オプションパーツセットが商品化決定！]]></title>
+        <id>https://hobby.dengeki.com/?p=1583464</id>
+        <link href="https://hobby.dengeki.com/news/1583464/"/>
+        <updated>2022-06-18T12:15:17.000Z</updated>
+        <summary type="html"><![CDATA[『TIGER＆BUNNY 2』PROPLICA ストレージバングル、Figuarts mini 仙石 昴、トーマス・トーラス、ラーラ・チャイコスカヤが商品化決定＆6月23日（木）詳細公開予定！ダブルチェイサー＆オプションパーツセットも商品化決定！ #tigerbunny #タイバニ]]></summary>
+        <author>
+            <name>高橋佑太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『機動戦士ガンダムSEED』連合のあの機体がGフレームFAでフィギュア化!?印象的なシルエットが公開！（バンダイキャンディスタッフBLOG）]]></title>
+        <id>https://hobby.dengeki.com/?p=1583205</id>
+        <link href="https://hobby.dengeki.com/news/1583205/"/>
+        <updated>2022-06-18T09:00:35.000Z</updated>
+        <summary type="html"><![CDATA[2023年春ごろにプレミアムバンダイ限定で発売予定！『機動戦士ガンダムSEED』連合のあの機体がGフレームFAでフィギュア化!? #ガンダム #Gフレーム]]></summary>
+        <author>
+            <name>ガッツ深谷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[双子の美少女姉妹がセクシーなバニーガールに！『閃乱カグラ』『プリコネ』『カッコウの許嫁』などの新作フィギュアが秋葉原で展示！]]></title>
+        <id>https://hobby.dengeki.com/?p=1583355</id>
+        <link href="https://hobby.dengeki.com/news/1583355/"/>
+        <updated>2022-06-18T08:30:34.000Z</updated>
+        <summary type="html"><![CDATA[『閃乱カグラ』両備や両奈、『プリコネ』イリヤ、コッコロ、『ギルティギア』メイ、『カッコウの許嫁』天野エリカなどの新作フィギュアが秋葉原で展示！ #閃乱カグラ #プリコネ #akiba]]></summary>
+        <author>
+            <name>森川哲也</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手転がしと電動走行が楽しめる！プラレールに「ESシリーズ」が登場！新幹線N700S、E5系新幹線はやぶさなど4種がAmazonで予約受付中]]></title>
         <id>https://hobby.dengeki.com/?p=1582979</id>
