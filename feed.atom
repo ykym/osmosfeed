@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ykym.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-20T01:04:53.318Z</updated>
+    <updated>2022-06-21T01:05:56.478Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://ykym.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://ykym.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『ポケモン』のアクリルスタンドがガシャポンにてリリース開始！人気ポケモンに加え、「サトシ」や「ダンデ」、「ゴウ」などもラインナップ!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1578714</id>
+        <link href="https://hobby.dengeki.com/news/1578714/"/>
+        <updated>2022-06-21T01:00:36.000Z</updated>
+        <summary type="html"><![CDATA[『ポケットモンスター』シリーズから、「ポケモンワールドチャンピオンシップス」のアクリルスタンドがガシャポンにて展開スタート！ ポケモン #ガシャポン]]></summary>
+        <author>
+            <name>篠崎健</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『機動戦士ガンダム 鉄血のオルフェンズG』のガンプラ「HG ジークルーネ」がプレバンで販売！ヴァルキュリアレイピア、ヴァルキュリアラウンドシールドが付属！]]></title>
+        <id>https://hobby.dengeki.com/?p=1585496</id>
+        <link href="https://hobby.dengeki.com/news/1585496/"/>
+        <updated>2022-06-21T00:43:57.000Z</updated>
+        <summary type="html"><![CDATA[レイピア用の持ち手や平手などのハンドパーツが付属！『機動戦士ガンダム 鉄血のオルフェンズG』のガンプラ「HG ジークルーネ」がプレバンで販売！ #ガンダム #ガンプラ]]></summary>
+        <author>
+            <name>ガッツ深谷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔法玉や魔法の実がカラフルなグミに♪食玩「おジャ魔女どれみ 魔法玉グミ2」が登場！柔らかな水彩タッチが美しいシールが付属]]></title>
+        <id>https://hobby.dengeki.com/?p=1584489</id>
+        <link href="https://hobby.dengeki.com/news/1584489/"/>
+        <updated>2022-06-21T00:30:38.000Z</updated>
+        <summary type="html"><![CDATA[『おジャ魔女どれみ』の「魔法玉グミ」第2弾が食玩に登場！柔らかな水彩タッチが美しいシールが付属。レアシールには、豪華な集合イラストのほか、エピソード総選挙上位3作品の懐かしい名場面が蘇るシーンが収録！ #おジャ魔女どれみ]]></summary>
+        <author>
+            <name>川鍋 信利</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気イラストレーター「カナヘイ」さんの「ねーねーねこ」がガシャポンフィギュアになりました！ケーブルをハグする姿に癒されます♪]]></title>
+        <id>https://hobby.dengeki.com/?p=1578534</id>
+        <link href="https://hobby.dengeki.com/news/1578534/"/>
+        <updated>2022-06-21T00:00:54.000Z</updated>
+        <summary type="html"><![CDATA[人気イラストレーター「カナヘイ」さんが描く「ねーねーねこ」がガシャポンに登場！ #ガシャポン]]></summary>
+        <author>
+            <name>篠崎健</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『劇場版「美少女戦士セーラームーン Eernal」』のハグコット第3弾！5人のセーラー・プリンセスやパール塗装のプリンセス・セレニティが華やかに舞い降りる!!]]></title>
+        <id>https://hobby.dengeki.com/?p=1578407</id>
+        <link href="https://hobby.dengeki.com/news/1578407/"/>
+        <updated>2022-06-20T23:30:10.000Z</updated>
+        <summary type="html"><![CDATA[『劇場版「美少女戦士セーラームーンEternal」』より、ケーブルをぎゅっとハグする姿が可愛いマスコットフィギュア「ハグコット」第3弾が登場！ #劇場版セーラームーン #ガシャポン]]></summary>
+        <author>
+            <name>篠崎健</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『マインクラフト』より、プレイヤーの初期スキンであるアレックス、スティーブのデフォルメBIGぬいぐるみが登場！大きな頭が目印！]]></title>
+        <id>https://hobby.dengeki.com/?p=1579458</id>
+        <link href="https://hobby.dengeki.com/news/1579458/"/>
+        <updated>2022-06-20T23:00:53.000Z</updated>
+        <summary type="html"><![CDATA[『マイクラ』より、アレックス＆スティーブのデフォルメBIGぬいぐるみが登場！巨大な頭が目印のスペシャルアイテムです！ #minecraft]]></summary>
+        <author>
+            <name>齋藤泰成</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗夜に忍ぶ、蒼き古鉄――『スパロボOG』夜間迷彩仕様のアルトアイゼン・ナハトがHGでプラモデル化！新規造形のシシオウブレードが付属！]]></title>
+        <id>https://hobby.dengeki.com/?p=1585015</id>
+        <link href="https://hobby.dengeki.com/news/1585015/"/>
+        <updated>2022-06-20T23:00:01.000Z</updated>
+        <summary type="html"><![CDATA[『スーパーロボット大戦OG』のプラモデル「HG アルトアイゼン・ナハト」が登場！青と白を基調とした特徴的な機体カラーを再現！プレバンにて6月21日（火）12時より予約開始です。 #プラモデル #スーパーロボット大戦OG]]></summary>
+        <author>
+            <name>ガッツ深谷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『呪術廻戦』より、東堂や加茂らがラインナップされたラバーマスコット付きボールペン第3弾が登場！呪術高専京都校の生徒たちが集結！]]></title>
+        <id>https://hobby.dengeki.com/?p=1577713</id>
+        <link href="https://hobby.dengeki.com/news/1577713/"/>
+        <updated>2022-06-20T22:30:12.000Z</updated>
+        <summary type="html"><![CDATA[『呪術廻戦』より、東堂、加茂をはじめとする呪術高専京都校の生徒たちが勢ぞろいした「ラバーマスコット付きボールペン」第3弾が登場！ #呪術廻戦 #jujutsukaisen]]></summary>
+        <author>
+            <name>齋藤泰成</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ウルトラマン フュージョンファイト！』と連動する「ウルトラディメンションカード」のウエハース第1弾が登場！デッカーメビウス人気ウルトラマンや怪獣など全18種のラインナップ！]]></title>
+        <id>https://hobby.dengeki.com/?p=1584313</id>
+        <link href="https://hobby.dengeki.com/news/1584313/"/>
+        <updated>2022-06-20T22:00:04.000Z</updated>
+        <summary type="html"><![CDATA[「ウルトラディメンションカードウエハース01」が登場！デッカーはもちろん、メビウス、オーブ、ゼット、ゼットンなど、人気ウルトラマンや怪獣のカードが入った全18種のラインナップ！ #ウルトラマン #食玩]]></summary>
+        <author>
+            <name>イソベアラタ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ナガノ×サンリオキャラクターズ』のコラボグッズ登場！「ハンギョドン さゆりちゃんと一緒BIGぬいぐるみ」がプライズ投入決定！]]></title>
+        <id>https://hobby.dengeki.com/?p=1579061</id>
+        <link href="https://hobby.dengeki.com/news/1579061/"/>
+        <updated>2022-06-20T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[『ナガノ×サンリオキャラクターズ』コラボアイテムが登場！「ハンギョドン さゆりちゃんと一緒BIGぬいぐるみ」が全国のアミューズメント施設にて展開！ #ハンギョドン]]></summary>
+        <author>
+            <name>齋藤泰成</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初めて虎杖の身体に宿儺が受肉したシーンを再現！『呪術廻戦』臨場感たっぷりの宿儺のフィギュアが登場！]]></title>
         <id>https://hobby.dengeki.com/?p=1584127</id>
