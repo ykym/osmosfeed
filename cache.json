@@ -6,6 +6,16 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "author": null,
+          "description": "Fixed: Favicon used as article image",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "publishedOn": "2022-06-22T06:05:35.000Z",
+          "wordCount": 263,
+          "title": "v1.15.1",
+          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
           "author": null,
           "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
@@ -22,6 +32,106 @@
       "feedUrl": "https://hobby.dengeki.com/news/feed/",
       "siteUrl": "https://hobby.dengeki.com",
       "articles": [
+        {
+          "id": "https://hobby.dengeki.com/?p=1587837",
+          "author": "川鍋 信利",
+          "description": "とけたアイス、キャンディがかわいい、カプセルトイ「とけちゃった フィギュアペン差しコレクション」が登場！とろりとしたビジュアルがユニークなアイテムが全5種ラインナップ！ #カプセルトイ",
+          "link": "https://hobby.dengeki.com/news/1587837/",
+          "publishedOn": "2022-06-23T00:30:12.000Z",
+          "wordCount": 1881,
+          "title": "暑さでアイスやキャンディがとろ～り♪「とけちゃった フィギュアペン差しコレクション」がカプセルトイに登場！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/DTWcard_oCvIb4NL84ysCs7eDCOYk76056QuhY-5.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1587648",
+          "author": "川鍋 信利",
+          "description": "ショウガラゴ（ブッシュベイビー）のピザトルが、ぬいぐるみになってモーリーファンタジー・PALO限定プライズとして登場！ふわふわの毛並み、約25センチある尻尾など、かわいさ満点のぬいぐるみです！ #ピザトル",
+          "link": "https://hobby.dengeki.com/news/1587648/",
+          "publishedOn": "2022-06-23T00:00:10.000Z",
+          "wordCount": 1964,
+          "title": "「ショウガラゴのピザトル」のビッグサイズぬいぐるみがプライズに登場！三角ピザの帽子など、おしゃれなコーディネイトに注目！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/DTWcard_whovmS-sHerNZlvy85KLM9qobyRQxw7t.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1588177",
+          "author": "ガッツ深谷",
+          "description": "『コードギアス 反逆のルルーシュR2』のプラモデル「HG 1/35 ランスロット・アルビオン」が4次受注！完全新規造形で機体形状と可動を両立させたアイテム！ #geassp",
+          "link": "https://hobby.dengeki.com/news/1588177/",
+          "publishedOn": "2022-06-22T23:45:39.000Z",
+          "wordCount": 2122,
+          "title": "エナジー・ウイングやスーパーヴァリスも再現！『コードギアス』のプラモデル「HG 1/35 ランスロット・アルビオン」が4次受注！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/02card_yteR3mOBKK3lPg_Q1sq1jVjAk2myWMwU.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1587430",
+          "author": "山中 嵩志",
+          "description": "有明に新たなホビースポット誕生！「京商ビレッジ」が有明ガーデンに7月1日オープン！“キャンプの遊び”として人気が高まるラジコンや高級ミニカー・トイまで豊富な品揃え！ #有明ガーデン #京商ビレッジ",
+          "link": "https://hobby.dengeki.com/news/1587430/",
+          "publishedOn": "2022-06-22T23:30:38.000Z",
+          "wordCount": 2052,
+          "title": "有明ガーデンにホビーショップ・京商ビレッジが7月1日オープン！人気高まるオフロード仕様のラジコンから高級ミニカーまで豊富な品揃え!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/card_YBEKNmRS0zx-fSJlNBIyWAB6EqgGw8lT.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1587591",
+          "author": "山中 嵩志",
+          "description": "水を手でつかめる!?不思議な実験が楽しめる大ヒット知育菓子がより楽しくカラフルにリニューアル！「つかめる実験！ふしぎ玉」が7月4日に発売！ #知育菓子 #ふしぎ玉",
+          "link": "https://hobby.dengeki.com/news/1587591/",
+          "publishedOn": "2022-06-22T23:00:18.000Z",
+          "wordCount": 2049,
+          "title": "水をつかんで食べられる大ヒット実験お菓子がカラフルにリニューアル！「つかめる実験！ふしぎ玉」が7月4日に発売!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/card_Y6AQUccJbqaHQNs-2yjRieIWLDRQS11p.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1587355",
+          "author": "川鍋 信利",
+          "description": "『ウルトラマンダイナ』放送25周年を記念した特別企画「ウルトラマンダイナPOP UP STORE」が墓場の画廊にて開催！貴重な資料の展示のほか、Tシャツやキャップ、うちわなどの多彩なアイテムが販売！ #ウルトラマンダイナ",
+          "link": "https://hobby.dengeki.com/news/1587355/",
+          "publishedOn": "2022-06-22T22:30:17.000Z",
+          "wordCount": 2424,
+          "title": "放送25周年！「ウルトラマンダイナPOP UP STORE」が墓場の画廊にて7月1日より開催！Tシャツやジョッキなど多彩なグッズが販売",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/DTWcard_lT1PYavpV9JamKNPu_38u5cKC5UFn1ch.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1578688",
+          "author": "篠崎健",
+          "description": "「もしも新一以外もAPTX4869を飲んで小さくなったら……？」という発想で生まれた、『名探偵コナン』のガシャポンフィギュア「ちぢませ隊」シリーズに第8弾が登場！ #名探偵コナン #コナン #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1578688/",
+          "publishedOn": "2022-06-22T22:00:09.000Z",
+          "wordCount": 2114,
+          "title": "『名探偵コナン』のマスコットフィギュア「ちぢませ隊」第8弾には、「降谷零」の警察学校同期5人が勢揃い!!",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/twi_1000175201_2_5pMBWUwXZ4GabkQzpvMeRUxbsXMNoyEN.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1584753",
+          "author": "川鍋 信利",
+          "description": "食玩「すみっコぐらし つりグミ」が登場！アームでつられたり、ガーランドになったり、回転ずしのレーンにのったトレーデザインは全12種！ #すみっコぐらし",
+          "link": "https://hobby.dengeki.com/news/1584753/",
+          "publishedOn": "2022-06-22T21:30:38.000Z",
+          "wordCount": 1961,
+          "title": "食玩「すみっコぐらし つりグミ」が登場！しろくま×アーム、おすしの会など全12種がラインナップ",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/DTWcard_DlEJcWTrOE97M-gS_ErjxLNoFs4VXGaq.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1578662",
+          "author": "篠崎健",
+          "description": "並べて可愛いガシャポンフィギュア「ならぶんです。」に、ミッフィーと仲間たちの第2弾が登場！ #ミッフィー #ガシャポン",
+          "link": "https://hobby.dengeki.com/news/1578662/",
+          "publishedOn": "2022-06-22T21:00:45.000Z",
+          "wordCount": 2071,
+          "title": "「ミッフィー」の「ならぶんです。」第2弾！歩きポーズを再現する台座パーツで、仲良く並んで行進♪",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/twi_1000175180_2_DyBoFKeoHP5OomWy84TcczDZrobosOBM.jpg"
+        },
+        {
+          "id": "https://hobby.dengeki.com/?p=1587990",
+          "author": "ガッツ深谷",
+          "description": "キューズQで企画進行中の『ライザのアトリエ2』着替えライザフィギュアの監修中彩色見本が公開！抜群のプロポーションや丁寧な塗装に注目！ #ライザのアトリエ #ライザ2",
+          "link": "https://hobby.dengeki.com/news/1587990/",
+          "publishedOn": "2022-06-22T12:30:48.000Z",
+          "wordCount": 1881,
+          "title": "『ライザのアトリエ2』お着替え中のライザフィギュアの監修中彩色見本が公開！",
+          "imageUrl": "https://hobby.dengeki.com/ss/hobby/uploads/2022/06/02card_BdZntaHoxKxBxFzYyU1v3BHnk0QHun9F.jpg"
+        },
         {
           "id": "https://hobby.dengeki.com/?p=1586309",
           "author": "川鍋 信利",
@@ -2625,5 +2735,5 @@
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
